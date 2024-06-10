@@ -1,0 +1,17 @@
+body {
+    background-color: 	rgba(79, 190, 255, 0.432);
+    font: 15pt Arial;
+}
+h1 {
+    text-align: center;
+}
+section{
+    background-color: white;
+    border-radius: 15px;
+    padding:  20px;
+    width: 500px;
+    margin: auto;
+}
+footer {
+    text-align: center;
+}

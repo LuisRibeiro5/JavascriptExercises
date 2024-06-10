@@ -1,0 +1,17 @@
+body {
+    font: 20pt Arial;
+    background-color: antiquewhite;
+}
+
+section {
+    background-color: aliceblue;
+    border-radius: 18px;
+}
+header {
+    background-color: aliceblue;
+    border-radius: 18px;
+}
+id#res {
+    background-color: aqua;
+    border-radius: 18px;
+}
